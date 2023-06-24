@@ -1,0 +1,18 @@
+<button (click)="AddToChart(product, quantity)" class="btn btn-outline-warning">
+  add to chart
+</button>
+<span class="cart">
+  <button
+    (click)="UpdateQuanitty(product, 'subtract', perfumes)"
+    class="cart__button"
+  >
+    -
+  </button>
+  <span class="cart__quantity">{{ quantity }}</span>
+  <button
+    (click)="UpdateQuanitty(product, 'add', perfumes)"
+    class="cart__button"
+  >
+    +
+  </button>
+</span>

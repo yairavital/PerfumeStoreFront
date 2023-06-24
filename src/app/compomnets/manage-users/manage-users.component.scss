@@ -1,0 +1,119 @@
+body {
+  background: #edf1f5;
+  margin-top: 20px;
+}
+/*Mobile View*/
+@media only screen and (max-width: 760px) {
+  td,
+  tr {
+    display: block;
+  }
+  /* Hide table headers (but not display: none;, for accessibility) */
+  thead tr {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+  }
+  tr {
+    border: 1px solid #e74c3c;
+  }
+  tr + tr {
+    margin-top: 1.5em;
+  }
+  td {
+    /* make like a "row" */
+    border: none;
+    border-bottom: 1px solid #eee;
+    position: relative;
+    padding-left: 50%;
+    background-color: #f8d9d5;
+    text-align: left;
+  }
+  td:before {
+    content: attr(data-label);
+    display: inline-block;
+    line-height: 1.5;
+    margin-left: -100%;
+    width: 100%;
+    white-space: nowrap;
+  }
+}
+
+.card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  word-wrap: break-word;
+  background-color: #fff;
+  background-clip: border-box;
+  border: 0 solid transparent;
+  border-radius: 0;
+}
+.btn-circle.btn-lg,
+.btn-group-lg > .btn-circle.btn {
+  width: 50px;
+  height: 50px;
+  padding: 14px 15px;
+  font-size: 18px;
+  line-height: 23px;
+}
+.text-muted {
+  color: #8898aa !important;
+}
+[type="button"]:not(:disabled),
+[type="reset"]:not(:disabled),
+[type="submit"]:not(:disabled),
+button:not(:disabled) {
+  cursor: pointer;
+}
+.btn_addUser {
+  position: relative;
+  left: 80%;
+  display: flex;
+  align-items: center;
+  font-family: inherit;
+  font-weight: 500;
+  font-size: 16px;
+  padding: 0.7em 1.4em 0.7em 1.1em;
+  color: white;
+  background: #ad5389;
+  background: linear-gradient(
+    0deg,
+    rgba(20, 167, 62, 1) 0%,
+    rgba(102, 247, 113, 1) 100%
+  );
+  border: none;
+  box-shadow: 0 0.7em 1.5em -0.5em #14a73e98;
+  letter-spacing: 0.05em;
+  border-radius: 20em;
+}
+.btn_addUser svg {
+  margin-right: 6px;
+}
+
+.btn_addUser :hover {
+  box-shadow: 0 0.5em 1.5em -0.5em #14a73e98;
+}
+
+.btn_addUser :active {
+  box-shadow: 0 0.3em 1em -0.5em #14a73e98;
+}
+.btn-circle {
+  border-radius: 100%;
+  width: 40px;
+  height: 40px;
+  padding: 10px;
+  margin-inline: 0.5em;
+}
+.user-table tbody tr .category-select {
+  max-width: 150px;
+  border-radius: 20px;
+}
+@media (max-width: 767.98px) {
+  .btn_addUser {
+    position: relative;
+    left: 70%;
+    display: flex;
+  }
+}
