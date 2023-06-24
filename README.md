@@ -27,9 +27,7 @@ A front end client side for perfume shop. The main technologies that used in thi
 | 3566002020360505 | JCB                        | Any 3 digits | Any future date |
 | 6200000000000005 | UnionPay                   | Any 3 digits | Any future date |
 
-## Demo
 
-[Perfume Shop Demo](https://avitalyairshop.netlify.app)
 
 ## Feedback
 
