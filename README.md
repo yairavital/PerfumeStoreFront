@@ -4,9 +4,9 @@ A front end client side for perfume shop. The main technologies that used in thi
 
 ## For administrator access:
 
-#### user name: `admin`
+#### user name: `admin@email.com`
 
-#### password: `0000`
+#### password: `123!Qaz123`
 
 ## API Reference
 
