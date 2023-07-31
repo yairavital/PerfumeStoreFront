@@ -44,7 +44,8 @@ Install Perfume Shop App with npm
 | 6200000000000005 | UnionPay                   | Any 3 digits | Any future date |
 
 ## Demo
-[Demo Perfume Site]([https://programminglanguage.tradepub.com/](https://avitalyairshop.netlify.app).
+[Demo Perfume Site]((https://avitalyairshop.netlify.app).
+
 ## Interface images
 
 
