@@ -3,12 +3,19 @@
 A front end client side for perfume shop. The main technologies that used in this project are: Angular, Html,Css, TypeScript,JavaScript,Bootstrap.
 
 ## Table of Contents
-- [For administrator access](#for-administrator-access)
 - [Installation](#installation)
+- [For administrator access](#for-administrator-access)
 - [API Reference](#api-reference)
 - [Interface images](#interface-images)
 - [Feedback](#feedback)
 
+## Installation
+
+Install EBook App with npm
+
+```bash
+  npm install
+```
 
 ## For administrator access:
 
