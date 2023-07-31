@@ -7,7 +7,7 @@ A front end client side for perfume shop. The main technologies that used in thi
 - [Installation](#installation)
 - [API Reference](#api-reference)
 - [Interface images](#interface-images)
-- [Feedback](#feedback)
+- [Feedback](#Feedback)
 
 
 ## For administrator access:
