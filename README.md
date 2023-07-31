@@ -48,14 +48,21 @@ Install Perfume Shop App with npm
 
 
 ## Interface images
-![1](![WhatsApp Image 2023-07-31 at 14 43 21](https://github.com/yairavital/PerfumeStoreFront/assets/97466607/4ca736fc-9a05-4fdb-92f6-7d70c18af3ab)
-)
-![2](https://github.com/shokerm/PerfumeStoreFront/assets/96984377/3a8b31b5-6340-40e0-b4de-401435b0d752)
-![3](https://github.com/shokerm/PerfumeStoreFront/assets/96984377/93422284-7dfb-470f-ae40-4928e9b207d6)
-![4](https://github.com/shokerm/PerfumeStoreFront/assets/96984377/2dafb07e-ee15-4ce5-9fd4-c5e2cecb9fa7)
-![5](https://github.com/shokerm/PerfumeStoreFront/assets/96984377/c00d48cc-978e-4699-98bf-ac5f85bfbba4)
-![6](https://github.com/shokerm/PerfumeStoreFront/assets/96984377/870c5dd6-ef1a-4b84-b03b-e9f7927dacec)
-![7](https://github.com/shokerm/PerfumeStoreFront/assets/96984377/b3886aca-b8a8-4239-bae1-9b181698e6a3)
+![WhatsApp Image 2023-07-31 at 14 43 21](https://github.com/yairavital/PerfumeStoreFront/assets/97466607/39702bc0-f3df-470a-836d-9b06c5acc87b)
+![WhatsApp Image 2023-07-31 at 14 43 21 (1)](https://github.com/yairavital/PerfumeStoreFront/assets/97466607/02afcf29-bee7-49ce-a271-538205bdbaa5)
+
+![WhatsApp Image 2023-07-31 at 14 43 21 (2)](https://github.com/yairavital/PerfumeStoreFront/assets/97466607/e2eac253-cf1f-494d-8224-48fa487a701e)
+![WhatsApp Image 2023-07-31 at 14 43 21 (3)](https://github.com/yairavital/PerfumeStoreFront/assets/97466607/17c30175-10b3-4198-9c5c-70f979a52daf)
+
+![WhatsApp Image 2023-07-31 at 14 43 22](https://github.com/yairavital/PerfumeStoreFront/assets/97466607/65c0e401-091f-4408-b9f6-1c8d67aa4f06)
+
+![WhatsApp Image 2023-07-31 at 14 43 22 (1)](https://github.com/yairavital/PerfumeStoreFront/assets/97466607/7c42b338-0048-4d56-b4dd-8558c15146c2)
+![WhatsApp Image 2023-07-31 at 14 43 22 (2)](https://github.com/yairavital/PerfumeStoreFront/assets/97466607/13c05d9a-50a7-42cf-812c-f112b3c4abb4)
+
+
+
+
+
 
 
 
