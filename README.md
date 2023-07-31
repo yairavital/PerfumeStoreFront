@@ -8,7 +8,7 @@ A front end client side for perfume shop. The main technologies that used in thi
 - [API Reference](#api-reference)
 - [Demo](#demo)
 - [Interface images](#interface-images)
-- [Feedback](#feedback)
+- [Feedbacks](#feedbacks)
 
 ## Installation
 
@@ -58,6 +58,6 @@ Install Perfume Shop App with npm
 
 
 
-## Feedback
+## Feedbacks
 
 If you have any feedback, please reach out to us at yairav66@gmail.com
