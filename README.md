@@ -46,7 +46,16 @@ Install Perfume Shop App with npm
 ## Demo
 [Demo Perfume Site](https://avitalyairshop.netlify.app)
 
+
 ## Interface images
+![1](https://github.com/shokerm/PerfumeStoreFront/assets/96984377/209e0b25-9a46-48e2-85fc-218269c696b9)
+![2](https://github.com/shokerm/PerfumeStoreFront/assets/96984377/3a8b31b5-6340-40e0-b4de-401435b0d752)
+![3](https://github.com/shokerm/PerfumeStoreFront/assets/96984377/93422284-7dfb-470f-ae40-4928e9b207d6)
+![4](https://github.com/shokerm/PerfumeStoreFront/assets/96984377/2dafb07e-ee15-4ce5-9fd4-c5e2cecb9fa7)
+![5](https://github.com/shokerm/PerfumeStoreFront/assets/96984377/c00d48cc-978e-4699-98bf-ac5f85bfbba4)
+![6](https://github.com/shokerm/PerfumeStoreFront/assets/96984377/870c5dd6-ef1a-4b84-b03b-e9f7927dacec)
+![7](https://github.com/shokerm/PerfumeStoreFront/assets/96984377/b3886aca-b8a8-4239-bae1-9b181698e6a3)
+
 
 
 ## Feedback
