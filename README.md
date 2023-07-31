@@ -5,8 +5,10 @@ A front end client side for perfume shop. The main technologies that used in thi
 ## Table of Contents
 - [For administrator access](#for-administrator-access)
 - [Installation](#installation)
-- [API Access](#api-access)
+- [API Reference](#api-reference)
 - [Interface images](#interface-images)
+- [Feedback](#feedback)
+
 
 ## For administrator access:
 
@@ -33,6 +35,7 @@ A front end client side for perfume shop. The main technologies that used in thi
 | 3566002020360505 | JCB                        | Any 3 digits | Any future date |
 | 6200000000000005 | UnionPay                   | Any 3 digits | Any future date |
 
+## Interface images
 
 
 ## Feedback
